@@ -1,0 +1,39 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Pebble",
+    "longName": "I PROMISE",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/check_mark.png",
+                "name": "check",
+                "type": "png"
+            },
+            {
+                "file": "images/LJFF-logo.png",
+                "menuIcon": true,
+                "name": "lfjj_logo",
+                "type": "png"
+            },
+            {
+                "file": "images/music_icon_ellipsis.png",
+                "name": "ELLIPSIS",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "I PROMISE",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "637b3049-04fa-49d0-96d6-7bc844fcf38f",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
