@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "sammywalk@gmail.com",
+    "longName": "test",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "test",
+    "uuid": "331d595a-0c80-40e0-91d1-1eb3cf1ec9fb",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
